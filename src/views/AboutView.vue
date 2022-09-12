@@ -1,8 +1,24 @@
+<script setup lang="ts">
+
+</script>
+
 <template>
-  <div class="about">
-    <h1>This is an about page?</h1>
-  </div>
+	<div>
+		<button>Download</button>
+	</div>
+	<div>
+		<div>
+			<div>Mansang Jo</div>
+			<div>Software Developer</div>
+		</div>
+		<div>
+			<div>mannyjo.dev</div>
+			<div>github.com/MannyJo</div>
+			<div>linkedin.com/in/mansang-jo/</div>
+		</div>
+	</div>
 </template>
 
-<style>
+<style scoped>
+
 </style>
